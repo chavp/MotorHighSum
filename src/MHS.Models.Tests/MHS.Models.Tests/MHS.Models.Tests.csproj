@@ -51,11 +51,13 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Models\Entities\EntityModel.cs" />
+    <Compile Include="Models\Entities\Organization.cs" />
     <Compile Include="Models\Entities\Party.cs" />
+    <Compile Include="Models\Entities\PartyRelationship.cs" />
     <Compile Include="Models\Entities\PartyRole.cs" />
     <Compile Include="Models\Values\PartyRoleType.cs" />
     <Compile Include="Models\Entities\Person.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="PartyTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Choose>

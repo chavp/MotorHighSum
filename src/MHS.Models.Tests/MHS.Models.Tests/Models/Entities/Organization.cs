@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace MHS.Models.Tests.Models.Entities
 {
-    public class Person : Party
+
+    public class Organization : Party
     {
-        public virtual string CardNo { get; set; }
+        public virtual string CompanyNo { get; set; }
     }
 }

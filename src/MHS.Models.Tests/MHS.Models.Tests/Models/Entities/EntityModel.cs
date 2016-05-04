@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MHS.Models.Tests.Models.EntityModel
+namespace MHS.Models.Tests.Models.Entities
 {
     public abstract class EntityModel
     {
