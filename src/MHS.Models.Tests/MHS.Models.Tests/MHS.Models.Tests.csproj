@@ -55,8 +55,12 @@
     <Compile Include="Models\Entities\Party.cs" />
     <Compile Include="Models\Entities\PartyRelationship.cs" />
     <Compile Include="Models\Entities\PartyRole.cs" />
+    <Compile Include="Models\Values\PartyRelationshipType.cs" />
     <Compile Include="Models\Values\PartyRoleType.cs" />
     <Compile Include="Models\Entities\Person.cs" />
+    <Compile Include="Models\Entities\PersonName.cs" />
+    <Compile Include="Models\Values\PersonNameType.cs" />
+    <Compile Include="Models\Values\ValueType.cs" />
     <Compile Include="PartyTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
